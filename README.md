@@ -20,7 +20,7 @@ Created an infographic of analyses of survey results of data professionals.
 
 The data was first cleaned to group "other" answers into 1 category, ensure numbers were in a number format, and create a column with the averages of the salary ranges.
 
-The visualizations used to create this infographic are treemap, donut chart, card, stacked bar chart, and stacked column chart.
+The visualizations used to create this infographic are treemap, gauge, donut chart, card, stacked bar chart, and stacked column chart.
 
 ![](./Images/Data_Professional_Survey_Breakdown.png)
 
